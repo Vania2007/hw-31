@@ -14,8 +14,8 @@ $tours = [
     [
         'name' => 'Подорож до Франції',
         'description' => 'Відкрийте для себе чарівність Франції, від Парижа до Ліона.',
-        'departure_date' => '05-05-2025',
-        'arrival_date' => '12-05-2025',
+        'departure_date' => '26-12-2024',
+        'arrival_date' => '12-01-2025',
         'cost' => 2400,
         'cities' => [
             ['name' => 'Париж', 'country' => 'Франція', 'hotel' => 'Hilton', 'stars' => 4],

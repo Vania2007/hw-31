@@ -9,14 +9,14 @@
 						</div>
 						<div class="widget">
 							<ul class="list-unstyled social">
-								<li><a href="#"><span class="icon-twitter"></span></a></li>
-								<li><a href="#"><span class="icon-instagram"></span></a></li>
-								<li><a href="#"><span class="icon-facebook"></span></a></li>
-								<li><a href="#"><span class="icon-linkedin"></span></a></li>
-								<li><a href="#"><span class="icon-dribbble"></span></a></li>
-								<li><a href="#"><span class="icon-pinterest"></span></a></li>
-								<li><a href="#"><span class="icon-apple"></span></a></li>
-								<li><a href="#"><span class="icon-google"></span></a></li>
+								<li><a href="https://x.com/"><span class="icon-twitter"></span></a></li>
+								<li><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
+								<li><a href="https://www.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li><a href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li><a href="https://dribbble.com/"><span class="icon-dribbble"></span></a></li>
+								<li><a href="https://www.pinterest.com/"><span class="icon-pinterest"></span></a></li>
+								<li><a href="https://www.apple.com/"><span class="icon-apple"></span></a></li>
+								<li><a href="https://www.google.com/"><span class="icon-google"></span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -28,7 +28,7 @@
 					</div>
 					<div class="col-md-6 col-lg-4">
 						<div class="widget">
-							<h3 class="heading">Contact</h3>
+							<h3 class="heading">Контакти</h3>
 							<ul class="list-unstyled quick-info links">
 								<li class="email"><a href="#">mail@megamail.com</a></li>
 								<li class="phone"><a href="#">+38 (012) 345 6789</a></li>
