@@ -44,8 +44,8 @@ $tours = [
     [
         'name' => 'Подорож до Іспанії',
         'description' => 'Насолоджуйтесь атмосферою Барселони та Севільї.',
-        'departure_date' => '12-02-2025',
-        'arrival_date' => '08-02-2025',
+        'departure_date' => '08-02-2025',
+        'arrival_date' => '12-02-2025',
         'cost' => 2600,
         'cities' => [
             ['name' => 'Барселона', 'country' => 'Іспанія', 'hotel' => 'W Barcelona', 'stars' => 5],
